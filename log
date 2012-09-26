@@ -1,0 +1,3 @@
+#!/bin/bash
+while true;do ./read.sh >> temperature.log;sleep 1m;done
+
